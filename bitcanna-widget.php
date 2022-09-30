@@ -3,7 +3,7 @@
 Plugin Name: Bitcanna Widget
 Plugin URI: https://cosmos-tool.com/
 Description: Add a widget that displays your bcna address in the site footer 
-Version: 1.1.7
+Version: 1.1.8
 Author: atmon3r
 Author URI: http://cosmos-tool.com/
 */
@@ -18,7 +18,7 @@ if ( ! defined( 'WPINC' ) ) {
 * Start at version 1.0.0 and use SemVer - https://semver.org
 * Rename this for your plugin and update it as you release new versions.
 */
-define( 'BITCANNA_WIDGET', '1.1.7' );
+define( 'BITCANNA_WIDGET', '1.1.8' );
 
 // The widget class
 class Bitcanna_Widget extends WP_Widget {

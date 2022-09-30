@@ -3,7 +3,7 @@ Contributors: (@atmon3r)
 Tags: Blockchain, Bitcanna
 Requires at least: 3.0.1
 Tested up to: 5.8
-Stable tag: 1.1.7
+Stable tag: 1.1.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
