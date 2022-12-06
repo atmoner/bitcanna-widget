@@ -1,1 +1,0 @@
-# bitcanna-widget
